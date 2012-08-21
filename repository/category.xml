@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description url="Example p2 Repository">
+      Example p2 Repository
+   </description>
+   <feature url="features/com.github.robinst.p2-example.feature_0.0.0.qualifier.jar" id="com.github.robinst.p2-example.feature" version="0.0.0" patch="true">
+      <category name="Example Category"/>
+   </feature>
+   <category-def name="Example Category" label="Example Category">
+      <description>
+         Example category
+      </description>
+   </category-def>
+</site>

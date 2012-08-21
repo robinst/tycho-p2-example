@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.github.robinst.p2-example.feature"
+      label="p2 Example Feature"
+      version="0.0.1.qualifier"
+      provider-name="robinst">
+
+   <description>
+      p2 Example Feature
+   </description>
+
+   <copyright>
+      Copyright 2012 robinst
+   </copyright>
+
+</feature>
